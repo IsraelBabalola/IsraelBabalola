@@ -1,8 +1,8 @@
 ## Hi there, I'm Israel 👋
 
-#🎓 Recent Computer Science graduate from **Carleton University** 
-#🌐 Former developer at **Global Affairs Canada**  
-#💻 Focused on backend development, data pipelines, and social network analysis
+🎓 Recent Computer Science graduate from **Carleton University** 
+🌐 Former developer at **Global Affairs Canada**  
+💻 Focused on backend development, data pipelines, and social network analysis
 
 ## 🛠️ Tech Stack
 `Python` `Java` `JavaScript` `React` `SQL` `Docker` `C` `Linux` `PRAW` `NetworkX` `C++` `C` `Haskell` `Ruby`
