@@ -8,7 +8,8 @@
 `Python` `Java` `JavaScript` `React` `SQL` `Docker` `C` `Linux` `PRAW` `NetworkX` `C++` `C` `Haskell` `Ruby`
 
 ## 📫 Contact
-📧 israelbabalola@gmail.com
+📧 [Email] israelbabalola@gmail.com
+🔗 [LinkedIn] https://www.linkedin.com/in/israel-babalola-aa0b7429a/ 
 <!--
 **IsraelBabalola/IsraelBabalola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
