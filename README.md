@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Israel 👋
 
+🎓 Recent Computer Science graduate from **Carleton University** 
+🌐 Former developer at **Global Affairs Canada**  
+💻 Focused on backend development, data pipelines, and social network analysis
+
+## 🛠️ Tech Stack
+`Python` `Java` `JavaScript` `React` `SQL` `Docker` `Git` `Linux` `PRAW` `NetworkX`
+
+## 📫 Contact
+📧 israelbabalola@gmail.com
 <!--
 **IsraelBabalola/IsraelBabalola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
