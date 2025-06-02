@@ -5,7 +5,7 @@
 💻 Focused on backend development, data pipelines, and social network analysis
 
 ## 🛠️ Tech Stack
-`Python` `Java` `JavaScript` `React` `SQL` `Docker` `Git` `Linux` `PRAW` `NetworkX`
+`Python` `Java` `JavaScript` `React` `SQL` `Docker` `C` `Linux` `PRAW` `NetworkX` `C++` `C` `Haskell` `Ruby`
 
 ## 📫 Contact
 📧 israelbabalola@gmail.com
